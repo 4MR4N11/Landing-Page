@@ -14,3 +14,7 @@ This is a challenge from [odin project](https://www.theodinproject.com/). The go
 - Use CSS selectors correctly.
 
 - Use CSS flexbox.
+
+## live demo
+
+[Live Demo Link](https://4mr4n11.github.io/Landing-Page/)
